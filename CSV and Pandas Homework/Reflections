@@ -1,0 +1,23 @@
+#1
+
+#This assignment informed me a lot about how to work with CSV files and Pandas DataFrames. One of the most important things I noticed was how simple it is to load data from a CSV file into a pandas DataFrame, making examining and analyzing the data much easier. I also improved my data filtering skills to focus on certain groups of players, such as those who played more than 500 minutes, as well as my ability to sum up or locate the top values in the data, such as the highest scorers or rebounders.
+
+#Another crucial skill I learned was data manipulation, which included changing columns to numeric values when they were not first recognized as numbers. This was important since it allowed me to perform computations such as adding up points and determining relationships. I also produced visualizations such as bar charts and scatter plots, which helped me see patterns and relationships in the data.
+
+#Overall, these skills—reading, filtering, and manipulating data—are extremely valuable. I may now use them to evaluate various datasets in the future, whether in sports, business, or other fields. Understanding how to handle and make sense of data will undoubtedly help you solve real-world problems.
+
+#2
+
+#The most difficult aspect of this task was dealing with data that did not behave as predicted. For example, several of the columns in the CSV file were not recognized as numbers, making it difficult to do computations such as adding points or determining the top scorers. This was annoying at first since I couldn't go right into the analysis.
+
+#To address this, I learned how to use a pandas function that turns these columns into integers, even if some of the data was not quite clean. This allowed us to continue with the calculations and analyses. Another problem was determining how to properly filter the data to focus on specific categories, such as gamers who had more than 500 minutes of gaming. I worked through this by carefully reading and playing with pandas commands until I achieved the desired outcomes.
+
+#By breaking down the problems into smaller pieces and taking the time to figure out each difficulty, I was able to overcome these obstacles and successfully complete the task.
+
+#3
+
+#The ideas I got from analyzing ACC basketball statistics are absolutely applicable to a variety of different real-world situations. For example, in sports, just as I evaluated player metrics, I might study data from other sports to identify top performers, measure growth, and even forecast future outcomes based on past performance.
+
+#Aside from athletics, similar data analysis approaches might be valuable in business. For example, a corporation may wish to examine sales data to determine which products sell the best or which customers are the most loyal. Data analysis in healthcare could be used to follow patient outcomes, discover sickness trends, and assess therapy efficacy.
+
+#This experience taught me that data analysis is an effective tool for making educated judgments in any sector. Learning to clean, filter, and evaluate data has better equipped me for future difficulties that require me to grasp and make sense of enormous amounts of information. Whether it's refining a corporate strategy, boosting a sports team's performance, or making healthcare more effective, the skills I've gained here will help me contribute to real-world problem solving.
